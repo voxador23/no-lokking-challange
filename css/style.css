@@ -1,0 +1,151 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    background-color: #EBE5E5;
+}
+
+.name {
+    position: absolute;
+    font-size: 45px;
+    top: 4%;
+    left: 30%;
+}
+
+.desc {
+    position: absolute;
+    font-size: 34px;
+    top: 8%;
+    left: 30%;
+}
+
+.home {
+    position: absolute;
+    font-size: 22px;
+    top: 9%;
+    left: 51%;
+    color: #8E8CBD;
+}
+
+.home:hover {
+    color: #8DD5D4;
+}
+
+.resume {
+    position: absolute;
+    font-size: 22px;
+    top: 9%;
+    left: 56%;
+    color: #8E8CBD;
+}
+
+.resume:hover {
+    color: #8DD5D4;
+}
+
+.products {
+    position: absolute;
+    font-size: 22px;
+    top: 9%;
+    left: 62%;
+    color: #8E8CBD;
+}
+
+.products:hover {
+    color: #8DD5D4;
+}
+
+.contact {
+    position: absolute;
+    font-size: 22px;
+    top: 9%;
+    left: 69%;
+    color: #8E8CBD;
+}
+
+.contact:hover {
+    color: #8DD5D4;
+}
+
+.hello {
+    position: absolute;
+    font-size: 90px;
+    top: 24%;
+    left: 50%;
+}
+
+.pic {
+    position: absolute;
+    height: 320px;
+    width: 320px;
+    border-radius: 150px;
+    top: 16%;
+    left: 32%;
+}
+
+.abt {
+    position: absolute;
+    font-size: 60px;
+    top: 33%;
+    left: 50%;
+}
+
+.resumee {
+    font-size: 20px;
+    position: absolute;
+    top: 49%;
+    left: 50%;
+    background-color: #E83555;
+    width: 117px;
+    height: 117px;
+    text-align: center;
+    border-radius: 70px;
+    color: white;
+    align-items: center;
+}
+
+.work {
+    font-size: 20px;
+    position: absolute;
+    top: 49%;
+    left: 57%;
+    background-color: #60D0D4;
+    width: 117px;
+    height: 117px;
+    text-align: center;
+    border-radius: 70px;
+    color: white;
+}
+
+.skills {
+    font-size: 20px;
+    position: absolute;
+    top: 49%;
+    left: 64%;
+    background-color: #D1DC96;
+    width: 117px;
+    height: 117px;
+    text-align: center;
+    border-radius: 70px;
+    color: white;
+}
+
+.paragraph {
+    font-size: 30px;
+    position: absolute;
+    top: 65%;
+    left: 45%;
+}
+
+.bottom {
+    position: absolute;
+    top: 81%;
+    width: 2132px;
+    height: 206px;
+    font-size: 35px;
+    background: crimson;
+    text-align: center;
+    color: white;
+}
